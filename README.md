@@ -1,0 +1,1 @@
+# solucao_prova_1GQ.c
